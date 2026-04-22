@@ -152,5 +152,5 @@ This project directly maps to IBM CIC Package Specialist responsibilities:
 ## Author
 
 **Bhupesh Chandra Dimri**
-M.S. Accounting Analytics, Pace University | SAP FI (Certification in progress)
+M.S. Accounting Analytics, Pace University | SAP FI
 [linkedin.com/in/bhupeshdimri](https://linkedin.com/in/bhupeshdimri) | bhupeshchandra.dimri@pace.edu
